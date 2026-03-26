@@ -1,0 +1,11 @@
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/Auth.Module.GeneratedMSBuildEditorConfig.editorconfig
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/Auth.Module.AssemblyInfoInputs.cache
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/Auth.Module.AssemblyInfo.cs
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/Auth.Module.csproj.CoreCompileInputs.cache
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/bin/Debug/net8.0/Auth.Module.deps.json
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/bin/Debug/net8.0/Auth.Module.dll
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/bin/Debug/net8.0/Auth.Module.pdb
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/Auth.Module.dll
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/refint/Auth.Module.dll
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/Auth.Module.pdb
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Auth.Module/obj/Debug/net8.0/ref/Auth.Module.dll

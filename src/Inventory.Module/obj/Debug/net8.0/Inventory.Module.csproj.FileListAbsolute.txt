@@ -1,0 +1,11 @@
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/bin/Debug/net8.0/Inventory.Module.deps.json
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/bin/Debug/net8.0/Inventory.Module.dll
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/bin/Debug/net8.0/Inventory.Module.pdb
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/Inventory.Module.GeneratedMSBuildEditorConfig.editorconfig
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/Inventory.Module.AssemblyInfoInputs.cache
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/Inventory.Module.AssemblyInfo.cs
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/Inventory.Module.csproj.CoreCompileInputs.cache
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/Inventory.Module.dll
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/refint/Inventory.Module.dll
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/Inventory.Module.pdb
+/home/acide/Escritorio/test-clean-module-hex-architecture/src/Inventory.Module/obj/Debug/net8.0/ref/Inventory.Module.dll
